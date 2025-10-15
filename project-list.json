@@ -1,11 +1,12 @@
 {
   "metadata": {
     "author": "Ali Emad SALEH",
-    "title": "90 Professional IT Infrastructure Projects",
-    "description": "Comprehensive portfolio showcasing expertise in networking, infrastructure, security, and government technology solutions",
-    "totalProjects": 90,
-    "categories": 8,
-    "created": "2024-10-04"
+    "title": "100+ Professional IT Infrastructure Projects",
+    "description": "Comprehensive portfolio showcasing expertise in advanced networking, AI/ML, blockchain, 5G, cloud-native technologies, cybersecurity, and government technology solutions",
+    "totalProjects": 100,
+    "categories": 9,
+    "created": "2024-10-04",
+    "lastUpdated": "2025-10-15"
   },
   "projects": {
     "networking": [
@@ -652,6 +653,118 @@
         "technologies": ["Python", "Report Templates", "Charts", "PDF"],
         "complexity": "Medium",
         "priority": 10
+      }
+    ],
+    "advanced-networking": [
+      {
+        "name": "ai-network-analytics-platform",
+        "description": "AI-powered network analytics platform with machine learning algorithms for predictive network analytics and automated anomaly detection",
+        "technologies": ["Python", "FastAPI", "TensorFlow", "Kafka", "React", "PostgreSQL"],
+        "complexity": "Enterprise",
+        "priority": 1,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/ai-network-analytics-platform",
+        "contact": "bgside2368@gmail.com"
+      },
+      {
+        "name": "zero-trust-network-controller",
+        "description": "Next-generation zero trust network security platform with identity-based access control and continuous verification",
+        "technologies": ["Go", "Gin", "PostgreSQL", "Kubernetes", "React", "Istio"],
+        "complexity": "Enterprise",
+        "priority": 2,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/zero-trust-network-controller",
+        "contact": "bgside2368@gmail.com"
+      },
+      {
+        "name": "5g-network-slicing-platform",
+        "description": "Advanced 5G network slicing management platform with dynamic resource allocation and QoS management",
+        "technologies": ["Python", "Django", "Vue.js", "Kubernetes", "Kafka", "InfluxDB"],
+        "complexity": "Enterprise",
+        "priority": 3,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/network-slicing-5g-platform",
+        "contact": "bgside2368@gmail.com"
+      },
+      {
+        "name": "blockchain-network-identity",
+        "description": "Decentralized blockchain-based network identity system with zero-knowledge proofs and self-sovereign identity",
+        "technologies": ["Rust", "Substrate", "React", "IPFS", "Polkadot", "Zero-Knowledge Proofs"],
+        "complexity": "Enterprise",
+        "priority": 4,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/blockchain-network-identity",
+        "contact": "bgside2368@gmail.com"
+      },
+      {
+        "name": "cloud-native-service-mesh",
+        "description": "Cloud-native service mesh controller with intelligent traffic routing and observability for microservices",
+        "technologies": ["Go", "Istio", "Envoy", "Kubernetes", "Prometheus", "Grafana"],
+        "complexity": "Enterprise",
+        "priority": 5,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/cloud-native-service-mesh",
+        "contact": "bgside2368@gmail.com"
+      },
+      {
+        "name": "sd-wan-orchestration-platform",
+        "description": "Enterprise SD-WAN management platform with intelligent path selection and application-aware routing",
+        "technologies": ["Go", "gRPC", "Kubernetes", "React", "InfluxDB", "Prometheus"],
+        "complexity": "Enterprise",
+        "priority": 6,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/sd-wan-orchestration-platform",
+        "contact": "bgside2368@gmail.com"
+      },
+      {
+        "name": "iot-network-management-hub",
+        "description": "Comprehensive IoT device management and orchestration platform with edge computing capabilities",
+        "technologies": ["Python", "Flask", "MQTT", "MongoDB", "Redis", "Docker"],
+        "complexity": "Enterprise",
+        "priority": 7,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/iot-network-management-hub",
+        "contact": "bgside2368@gmail.com"
+      },
+      {
+        "name": "edge-computing-orchestrator",
+        "description": "Advanced edge computing management platform with distributed workload orchestration",
+        "technologies": ["Go", "Kubernetes", "Docker", "PostgreSQL", "Prometheus", "Grafana"],
+        "complexity": "Enterprise",
+        "priority": 8,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/edge-computing-orchestrator",
+        "contact": "bgside2368@gmail.com"
+      },
+      {
+        "name": "network-automation-gitops",
+        "description": "Infrastructure as Code platform for network automation with GitOps workflows and declarative configuration",
+        "technologies": ["Python", "FastAPI", "Git", "PostgreSQL", "Redis", "Celery"],
+        "complexity": "Enterprise",
+        "priority": 9,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/network-automation-gitops",
+        "contact": "bgside2368@gmail.com"
+      },
+      {
+        "name": "intelligent-network-optimizer",
+        "description": "AI-powered network optimization platform with intelligent traffic engineering and performance optimization",
+        "technologies": ["Go", "Machine Learning", "PostgreSQL", "Prometheus", "Grafana", "Gonum"],
+        "complexity": "Enterprise",
+        "priority": 10,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/intelligent-network-optimizer",
+        "contact": "bgside2368@gmail.com"
+      },
+      {
+        "name": "secure-access-service-edge",
+        "description": "Cloud-native SASE platform combining network security functions with WAN capabilities for secure cloud transformation",
+        "technologies": ["Go", "Kubernetes", "PostgreSQL", "Swagger", "REST API", "OAuth2"],
+        "complexity": "Enterprise",
+        "priority": 11,
+        "status": "Production Ready",
+        "github": "https://github.com/bgside/secure-access-service-edge",
+        "contact": "bgside2368@gmail.com"
       }
     ]
   }

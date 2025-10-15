@@ -536,10 +536,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Support & Resources**
+## 📞 **Support & Contact**
 
-- **📧 Email**: support@5g-slicing-platform.com
-- **💬 Slack**: [Join our community](https://5g-slicing-platform.slack.com)
+- **📧 Email**: bgside2368@gmail.com
+- **💬 LinkedIn**: [Ali Emad SALEH](https://www.linkedin.com/in/hex41414141)
+- **📱 Phone**: +963-986-956-140
+- **🌍 Location**: Damascus, Syria
+- **💻 GitHub**: [bgside](https://github.com/bgside)
 - **🐛 Issues**: [GitHub Issues](https://github.com/bgside/network-slicing-5g-platform/issues)
 - **📚 Documentation**: [5G Slicing Documentation](https://docs.5g-slicing-platform.com)
 - **🎥 Tutorials**: [5G Training Videos](https://youtube.com/5g-slicing-platform)

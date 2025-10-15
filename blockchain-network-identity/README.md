@@ -552,10 +552,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Support & Resources**
+## 📞 **Support & Contact**
 
-- **📧 Email**: support@blockchain-identity.net
-- **💬 Discord**: [Join our community](https://discord.blockchain-identity.net)
+- **📧 Email**: bgside2368@gmail.com
+- **💬 LinkedIn**: [Ali Emad SALEH](https://www.linkedin.com/in/hex41414141)
+- **📱 Phone**: +963-986-956-140
+- **🌍 Location**: Damascus, Syria
+- **💻 GitHub**: [bgside](https://github.com/bgside)
 - **🐛 Issues**: [GitHub Issues](https://github.com/bgside/blockchain-network-identity/issues)
 - **📚 Documentation**: [Blockchain Identity Docs](https://docs.blockchain-identity.net)
 - **🎥 Tutorials**: [Blockchain Training Videos](https://youtube.com/blockchain-identity)

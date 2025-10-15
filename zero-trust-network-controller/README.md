@@ -517,10 +517,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Support & Resources**
+## 📞 **Support & Contact**
 
-- **📧 Email**: security@ztna-controller.com
-- **💬 Slack**: [Join our community](https://ztna-controller.slack.com)
+- **📧 Email**: bgside2368@gmail.com
+- **💬 LinkedIn**: [Ali Emad SALEH](https://www.linkedin.com/in/hex41414141)
+- **📱 Phone**: +963-986-956-140
+- **🌍 Location**: Damascus, Syria
+- **💻 GitHub**: [bgside](https://github.com/bgside)
 - **🐛 Issues**: [GitHub Issues](https://github.com/bgside/zero-trust-network-controller/issues)
 - **📚 Documentation**: [Security Documentation](https://docs.ztna-controller.com)
 - **🎥 Training**: [Security Training Portal](https://training.ztna-controller.com)

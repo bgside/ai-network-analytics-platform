@@ -431,10 +431,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Support & Resources**
+## 📞 **Support & Contact**
 
-- **📧 Email**: support@ai-analytics-platform.com
-- **💬 Slack**: [Join our community](https://ai-analytics-platform.slack.com)
+- **📧 Email**: bgside2368@gmail.com
+- **💬 LinkedIn**: [Ali Emad SALEH](https://www.linkedin.com/in/hex41414141)
+- **📱 Phone**: +963-986-956-140
+- **🌍 Location**: Damascus, Syria
+- **💻 GitHub**: [bgside](https://github.com/bgside)
 - **🐛 Issues**: [GitHub Issues](https://github.com/bgside/ai-network-analytics-platform/issues)
 - **📚 Documentation**: [Official Documentation](https://docs.ai-analytics-platform.com)
 - **🎥 Tutorials**: [YouTube Channel](https://youtube.com/ai-analytics-platform)
